@@ -15,6 +15,6 @@ Then run the following commands in the root folder:
 
 ### Technical overview
 * React Context API to implement a Redux-like store to manage state globally.
-* React Context API to implement a Redux-like store to manage state globally.
+
 ### Author
 CS Maxwell
