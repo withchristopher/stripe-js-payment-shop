@@ -8,7 +8,9 @@ e-commerce platform with an integration with Stripe Payment API
 
 Then run the following commands in the root folder:
 >`npm i`
+
 >`npm run seed`
+
 >`npm start`
 
 ### Technical overview
