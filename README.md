@@ -7,9 +7,9 @@ e-commerce platform with an integration with Stripe Payment API
 `git clone https://github.com/withchristopher/stripe-js-payment-shop.git`
 
 Then run the following commands in the root folder:
-`npm i`
-`npm run seed`
-`npm start`
+>`npm i`
+>`npm run seed`
+>`npm start`
 
 ### Technical overview
 * React Context API to implement a Redux-like store to manage state globally.
