@@ -2,7 +2,7 @@
 Welcome to a e-commerce platform with Stripe payment integration.
 
 ### Description
-e-commerce platform with an integration with Stripe Payment API
+e-commerce platform with an integration with Stripe payment API
 
 ### How to Use
 View the website live: https://aqueous-eyrie-32041.herokuapp.com/ 
